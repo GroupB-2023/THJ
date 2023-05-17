@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+
+p {
+	color: black;
+	background: aquamarine;
+}
+
+h1 {
+	color: black;
+	background: cyan;
+}
+
+body {
+	font-family: 'Oswald', sans-serif;
+	border: solid
+		#FD80B6;
+	text-align: center;
+}
+#main-image {
+	max-width: 10%;
+	max-height: 10%;
+	border: double
+	 #F4A6EF
+		thick
+		
+}
+
+a:link,a:active,a:visited{
+	color:black;
+}
+a:hover{
+	color:grey;
+}
+
+body{
+	background-color: aqua;
+}
+
