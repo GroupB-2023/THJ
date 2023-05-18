@@ -1,0 +1,23 @@
+
+h2 {
+	color:purple;
+}
+
+body {
+	font-family: 'Oswald', sans-serif;
+}
+
+#John {
+	border-radius:50%;
+	max-width:30%;
+}
+
+#Joe {
+	border-radius:50%;
+	max-width:30%;
+}
+
+#Kong {
+	border-radius:50%;
+	max-width:30%;
+}
