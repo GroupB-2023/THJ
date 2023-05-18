@@ -4,6 +4,9 @@
 p {
 	color: black;
 	background: aquamarine;
+	border:groove;
+	
+		
 }
 
 h1 {
@@ -13,10 +16,11 @@ h1 {
 
 body {
 	font-family: 'Oswald', sans-serif;
-	border: solid
-		#FD80B6;
 	text-align: center;
 }
+
+
+
 #main-image {
 	max-width: 10%;
 	max-height: 10%;
@@ -37,3 +41,20 @@ body{
 	background-color: aqua;
 }
 
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 500,
+  'GRAD' 0,
+  'opsz' 48;
+	border: solid
+		thin;
+}
+
+
+footer {
+	border: double;
+	text-align: center
+		
+}
