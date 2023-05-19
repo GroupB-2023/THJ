@@ -5,7 +5,7 @@
 - ensure only the title, meta tags and stylesheet links are included in the head. nav and other visable content should be in the body
 - comments should be used throughout HTML and CSS
 - HTML is supposed to describe what is happening on the page, therefore, a table is incorrect use for a nav bar.
-  Try styling an unordered list instead <ul> <li> </li> </ul>
+  Try styling an unordered list instead <!-- <ul> <li> </li> </ul> -->
  -image file names could be simplified to make them easy to identify in the code
  - I think the /Images/logo.png is a broken image because there is no Images folder
  - unused files should be removed e.g. contact.txt
