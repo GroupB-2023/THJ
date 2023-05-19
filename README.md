@@ -24,4 +24,5 @@
 - Rounded staff images
 - colored text
 - Great use of Github
+- Great use of time available
 - Well done team!!
