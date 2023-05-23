@@ -1,28 +1,28 @@
 
-h2 {
+h2 { /*text with h2 size will turn to purple*/
 	color:purple;
-	text-align: center;
 }
 
-body {
+body { /*text in body will change to Oswald font*/
 	font-family: 'Oswald', sans-serif;
 }
 
-#John {
+#John { /*image with id John will become round*/
 	border-radius:50%;
 	max-width:30%;
 }
 
-#Joe {
+#Joe { /*image with id Joe will become round*/
 	border-radius:50%;
 	max-width:30%;
 }
 
-#Kong {
+#Kong { /*image with id Kong will become round*/
 	border-radius:50%;
 	max-width:30%;
 }
 
-h4 {
-	text-align: center;
+h4 { /*text with h4 size will align to center*/
+	text-align:center 
 }
+
